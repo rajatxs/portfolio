@@ -1,3 +1,10 @@
+<!-- 
+File: PROFILE.md
+Author: Rajat Sharma
+Date: 2026-05-13
+Description: This file contains the professional profile of Rajat Sharma and will be used to generate the portfolio website.
+-->
+
 # Rajat Sharma
 
 Patan, Gujarat, India
