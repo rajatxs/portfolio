@@ -39,5 +39,6 @@ This document provides foundational mandates and technical context for developin
 - **Icons**: Use `lucide-react` for consistent iconography.
 
 ### Workflow
+- **Source of Truth**: Use `PROFILE.md` as the primary source for all website content (Bio, Skills, Experience, and Projects). Always verify that `src/App.jsx` is synchronized with the latest information from `PROFILE.md`.
 - **Verification**: Always run `npm run lint` before finalizing changes.
 - **Consistency**: Maintain the established Bento-style grid layout and minimalist aesthetic in `src/App.jsx`.
